@@ -599,25 +599,25 @@ export const galeryVideos = [
   {
     id: 2,
     image: require("./assets/galery/images/favorite_color_song.png"),
-    title: "Action Verbs Game",
+    title: "Favorite color song",
     video: require("./assets/videos/favorite_color_song.mp4")
   },
   {
     id: 3,
     image: require("./assets/galery/images/family_members_quiz.png"),
-    title: "Action Verbs Game",
+    title: "Family members quiz",
     video: require("./assets/videos/family_members_quiz.mp4")
   },
   {
     id: 3,
     image: require("./assets/galery/images/Can_and_Cant.png"),
-    title: "Action Verbs Game",
+    title: "Can and Cant",
     video: require("./assets/videos/Can_and_Cant.mp4")
   },
   {
     id: 2,
     image: require("./assets/galery/images/Months2.png"),
-    title: "Action Verbs Game",
+    title: "Months of the Year Song",
     video: require("./assets/videos/Months_of_the_Year_Song.mp4")
   },
   {
@@ -629,25 +629,25 @@ export const galeryVideos = [
   {
     id: 3,
     image: require("./assets/galery/images/Quiz_For_Kids.png"),
-    title: "Action Verbs Game",
+    title: "Quiz for kids",
     video: require("./assets/videos/Quiz_For_Kids.mp4")
   },
   {
     id: 3,
     image: require("./assets/galery/images/Fruit_and_Vegetables.png"),
-    title: "Action Verbs Game",
+    title: "Fruit and vegetables",
     video: require("./assets/videos/Fruit_and_Vegetables.mp4")
   },
   {
     id: 3,
     image: require("./assets/galery/images/WhatAmIQuiz.png"),
-    title: "Action Verbs Game",
+    title: "What am i quiz",
     video: require("./assets/videos/WhatAmIQuiz.mp4")
   },
   {
     id: 3,
     image: require("./assets/galery/images/Actions_Can_Cant.png"),
-    title: "Action Verbs Game",
+    title: "Action Cant Can´t",
     video: require("./assets/videos/Actions_Can_Cant.mp4")
   },
 ];
