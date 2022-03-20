@@ -49,7 +49,7 @@ const GaleryVideosScreen = () => {
                     ),
                     tabBarLabel: ({focused}) => (
                         <View style={styles.tabContainerItem}>
-                            <Text style={{color: focused ? '#fff' : '#a5a5a5',marginVertical: 10}}>
+                            <Text style={{color: focused ? '#fff' : '#a5a5a5',marginVertical: 10, fontWeight: "bold"}}>
                                 ALL
                             </Text>
                         </View>

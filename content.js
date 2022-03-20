@@ -5,7 +5,8 @@ export const vocabulary = [
     count: "26 contents",
     icon: require("./assets/images/alphabet.png"),
     //sound: require("./assets/audio/alphabet1.wav")
-    sound: require("./assets/audio/v_a_aphabet.wav")
+    sound: require("./assets/audio/v_a_aphabet.wav"),
+    color: "#ffb484",
   },
   {
     id: 2,
@@ -13,14 +14,16 @@ export const vocabulary = [
     count: "33 contents",
     icon: require("./assets/images/animals.png"),
     //sound: require("./assets/audio/animal1.wav")
-    sound: require("./assets/audio/animals.mp3")
+    sound: require("./assets/audio/animals.mp3"),
+    color: "#80c9fe",
   },
   {
     id: 3,
     title: "Numbers",
     count: "10 contents",
     icon: require("./assets/images/numero.png"),
-    sound: require("./assets/audio/v_a_numbers.mp3")
+    sound: require("./assets/audio/v_a_numbers.mp3"),
+    color: "#daff7e",
     //sound: require("./assets/audio/numbers1.wav")
   },
   {
@@ -28,7 +31,8 @@ export const vocabulary = [
     title: "Colors",
     count: "13 contents",
     icon: require("./assets/images/colors.png"),
-    sound: require("./assets/audio/v_a_colors.mp3")
+    sound: require("./assets/audio/v_a_colors.mp3"),
+    color: "#a4ff7e",
     //sound: require("./assets/audio/colors1.wav")
   },
   {
@@ -36,7 +40,8 @@ export const vocabulary = [
     title: "Personal pronouns",
     count: "8 contents",
     icon: require("./assets/images/toBe.png"),
-    sound: require("./assets/audio/v_a_pronouns.mp3")
+    sound: require("./assets/audio/v_a_pronouns.mp3"),
+    color: "#a27fff",
     //sound: require("./assets/audio/pronouns1.wav")
   },
 ];

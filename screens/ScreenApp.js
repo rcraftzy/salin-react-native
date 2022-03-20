@@ -41,7 +41,7 @@ const ScreenApp = () => {
                     height: 25,
                   }}
                 />
-                <Text style={{color: focused ? '#fff' : '#a5a5a5', marginBottom: 15}}>VOCABULARY</Text>
+                <Text style={{color: focused ? '#fff' : '#a5a5a5', marginBottom: 15, fontWeight: "bold"}}>VOCABULARY</Text>
               </View>
             )
           }}
